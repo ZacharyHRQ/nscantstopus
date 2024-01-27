@@ -15,7 +15,7 @@
 To install Streamlit, use the following command in code formatted text:
 
 ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ### Running App
